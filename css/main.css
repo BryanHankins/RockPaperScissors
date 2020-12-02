@@ -2,7 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  background: silver; }
+  background: orange; }
 
 body {
   min-height: 100vh;
@@ -35,21 +35,21 @@ h1 {
   font-weight: bold;
   margin: 0px 10px;
   font-family: sans-serif;
-  color: gold;
+  color: blue;
   background: black; }
 
 .show {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: #292828;
+  background: #282928;
   height: 220px;
   border-bottom-right-radius: 5%;
   border-bottom-left-radius: 5%; }
 
 .show i {
   font-size: 100px;
-  color: #40751c;
+  color: blue;
   background: #292828; }
 
 h2 {
@@ -79,7 +79,7 @@ h2 {
   color: blue; }
 
 #paper {
-  color: burlywood; }
+  color: blue; }
 
 #scissors {
-  color: silver; }
+  color: blue; }
